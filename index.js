@@ -1,2 +1,2 @@
-Audio music = Audio("fiki-skibidi-dop-dop-yes-yes-mp3.mp3")
+let music = document.QuerySelector("#audio")
 music.play()
