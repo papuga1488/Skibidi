@@ -1,2 +1,2 @@
-Audio music = Audio("music/music.mp3")
+Audio music = Audio("music.mp3")
 music.play()
